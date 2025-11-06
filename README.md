@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Here’s your updated README with the **Contributing** section added, ready for GitHub:
 
 ---
