@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-Here’s your updated README with the **Contributing** section added, ready for GitHub:
-
----
-
 # TaskMaster
 
 A simple and responsive **To-Do List app** built with **React** and **React Bootstrap**. TaskMaster allows users to add, filter, and mark tasks as completed with a clean and modern interface.
