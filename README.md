@@ -61,8 +61,9 @@ _Include screenshots here if you want_
 
 ## Future Improvements
 
-- Add task editing and deletion.
-- Persist tasks using localStorage or a backend database.
+- Task Due Dates & Reminders
+- Drag & Drop
+- Persist tasks using a backend database.
 - Add authentication for multiple users.
 
 ## Contributing
